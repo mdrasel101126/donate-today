@@ -101,8 +101,8 @@ section{
     border-radius: 5px;
 }
 .subscribe-field{
-    width: 50%;
-    height: 200px;
+    width: 60%;
+    height: 250px;
     margin: 0px auto;
     background-color: rgb(240, 240, 166);
     display: flex;
@@ -123,4 +123,19 @@ section{
     color: white;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+footer{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer h1{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(255, 111, 0); 
+}
+footer p{
+    color: whitesmoke;
 }
