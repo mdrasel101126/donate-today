@@ -59,10 +59,10 @@ section{
     align-items: center;
 }
 .line{
-    height: 2px;
     width: 60%;
-    background-color:grey;
-    margin: 0px auto;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid gray;
 }
 .plans{
     width: 80%;
