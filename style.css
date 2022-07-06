@@ -127,15 +127,16 @@ section{
 footer{
     height: 200px;
     background-color: black;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 footer h1{
+    padding-top: 80px;
+    text-align: center;
     font-family: 'Indie Flower', cursive;
-    color: rgb(255, 111, 0); 
+    color: rgb(255, 111, 0);
+    line-height: 0px;
 }
+
 footer p{
+    text-align: center;
     color: whitesmoke;
 }
