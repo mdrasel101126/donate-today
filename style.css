@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
+p{
+    color: #50708f;
+}
 h1{
     font-size: 50px;
 }
@@ -16,6 +19,9 @@ section{
     padding-top: 100px;
     padding-bottom: 140px;
     text-align: center;
+}
+.top-banner p{
+    color:whitesmoke ;
 }
 .donate-button{
     text-decoration: none;
