@@ -61,6 +61,7 @@ section{
 .line{
     width: 60%;
     text-align: center;
+    padding: 5px 0px;
     border: none;
     border-bottom: 2px solid gray;
 }
